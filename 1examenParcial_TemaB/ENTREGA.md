@@ -1,0 +1,3 @@
+NOMBRE: Diego Garcia.
+DIN: 46862270.
+TENMA: B
